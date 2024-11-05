@@ -1,0 +1,1 @@
+[24-Oct-2023 19:15:19 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/paginas/pagar/listar.php on line 114

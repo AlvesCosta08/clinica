@@ -1,0 +1,2 @@
+[27-Oct-2023 15:14:17 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/paginas/funcionarios/listar-dias.php on line 36
+[27-Oct-2023 15:14:40 America/Sao_Paulo] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/sistehugo/auroclin.sistemashugo.com.br/painel/paginas/funcionarios/listar-dias.php on line 36
